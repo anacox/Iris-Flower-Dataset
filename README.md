@@ -6,7 +6,7 @@ Iris Flower KNN classification with Scikit-Learn
 <p><b>E-mail:</b> ana.c.cox@gmail.com</p>
 
 ## Dataset
-This dataset was downloaded on https://www.kaggle.com/uciml/iris.
+This dataset was downloaded on https://www.kaggle.com/uciml/iris and it is available here. 
 
 The Iris flower dataset is a multivariate dataset introduced by the British statistician, eugenicist, and biologist Ronald Fisher in his 1936 paper "The use of multiple measurements in taxonomic problems" as an example of linear discriminant analysis. The dataset consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other.
 
